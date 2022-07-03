@@ -2,6 +2,7 @@
 It's arduino project for a smartphone controlled robot like spider but with four legs.
 
 <br>
+
 > ## Components Used
     A. Arduino Nano.
     B. Nano 328P Expansion Adapter Breakout Board IO Shield
