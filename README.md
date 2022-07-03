@@ -13,7 +13,7 @@ It's arduino project for a smartphone controlled robot like spider but with four
     G. Jumper Wires
 
 
-<br><br>
+<br>
 
 <details>
   <summary>:zap: Dimo Video</summary>
