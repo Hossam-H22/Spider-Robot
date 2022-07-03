@@ -1,14 +1,18 @@
 # Spider Robot
 It's arduino project for a smartphone controlled robot like spider but with four legs.
 
-I have used the following components in this project:
-a) Arduino Nano (Required)
-b) Nano 328P Expansion Adapter Breakout Board IO Shield (Required)
-c) HC05 Bluetooth Module (Required)
-d) SG90 Mini Servo 12 pieces (Required)
-e) Lithium Ion Battery 2 pieces
-f) Leds * 2 piece
-g) Jumper Wires
+<br>
+> ## Components Used
+    A. Arduino Nano.
+    B. Nano 328P Expansion Adapter Breakout Board IO Shield
+    C. HC05 Bluetooth Module
+    D. SG90 Mini Servo 12 pieces
+    E. Lithium Ion Battery 2 pieces
+    F. Leds 2 piece
+    G. Jumper Wires
+
+
+
 
 <details>
   <summary>:zap: Dimo Video</summary>
