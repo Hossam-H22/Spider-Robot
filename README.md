@@ -17,5 +17,5 @@ It's arduino project for a smartphone controlled robot like spider but with four
 
 <details>
   <summary>:zap: Dimo Video</summary>
-  https://youtu.be/0W4Rquge8Lo
+  https://youtu.be/hrVXke4FScc
 </details>
