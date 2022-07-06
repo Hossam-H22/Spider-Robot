@@ -1,5 +1,6 @@
 # Spider Robot
-It's arduino project for a smartphone controlled robot like spider but with four legs.
+<!-- It's arduino project for a smartphone controlled robot like spider but with four legs. -->
+It is a robot that resembles a spider and has four "limbs" that can be moved by using a mobile app that is Bluetooth-connected to the robot.
 
 <br>
 
